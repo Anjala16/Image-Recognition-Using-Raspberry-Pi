@@ -10,7 +10,7 @@ This project will be a simple display of how we can conduct image recognition us
 * [Setup](#LocalSetup)
 * [ToDo](#ToDo)
 
-##Hardware
+## Hardware
 
 1. Raspberry Pi (Personally I have used the Raspberry Pi 3 but can use the latest version)
 2. Pi Camera
