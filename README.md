@@ -27,7 +27,7 @@ This project will be a simple display of how we can conduct image recognition us
 ## Layout
 
 1. Basic Design
-![](images/pic1.png)
+![](images/pic1.png = 250x250)
 2. Flow chart of how the system works
 
 ![](images/flowchart.png)
