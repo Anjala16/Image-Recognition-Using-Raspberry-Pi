@@ -36,6 +36,8 @@ This project will be a simple display of how we can conduct image recognition us
 An idea of how to build the circuit
 
 ![](images/layout.png)
+
+
 In the above picture, the circuit connections between components i.e LEDs and motion sensor. Camera is fitted in the Raspberry Pi Camera Port.
 
 
